@@ -142,8 +142,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5lte/proprietary/lib/soundfx/libaudioeffectoffload.so:system/lib/soundfx/libaudioeffectoffload.so \
     vendor/samsung/a5lte/proprietary/lib/soundfx/libaudiosa_sec.so:system/lib/soundfx/libaudiosa_sec.so \
     vendor/samsung/a5lte/proprietary/lib/soundfx/libreverbwrapper.so:system/lib/soundfx/libreverbwrapper.so \
-    vendor/samsung/a5lte/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
-    vendor/samsung/a5lte/proprietary/framework/qcnvitems.jar:system/framework/qcnvitems.jar \
     vendor/samsung/a5lte/proprietary/bin/fmconfig:system/bin/fmconfig \
     vendor/samsung/a5lte/proprietary/bin/imsdatadaemon:system/bin/imsdatadaemon \
     vendor/samsung/a5lte/proprietary/bin/adsprpcd:system/bin/adsprpcd \
@@ -499,4 +497,4 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/a5lte/proprietary/cameradata/ThemeShot/categories_v2/eye/kidscam_v2_eye_6.yvu420sp:system/cameradata/ThemeShot/categories_v2/eye/kidscam_v2_eye_6.yvu420sp \
     vendor/samsung/a5lte/proprietary/cameradata/ThemeShot/MaskInfo_v2.conf:system/cameradata/ThemeShot/MaskInfo_v2.conf \
     vendor/samsung/a5lte/proprietary/app/TimeService/TimeService.apk:system/app/TimeService/TimeService.apk \
-    vendor/samsung/a5lte/proprietary/app/com.qualcomm.location.apk:system/app/com.qualcomm.location.apk
+    vendor/samsung/a5lte/proprietary/app/com.qualcomm.location/com.qualcomm.location.apk:system/app/com.qualcomm.location/com.qualcomm.location.apk
